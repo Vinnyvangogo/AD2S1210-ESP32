@@ -4,7 +4,6 @@ Resolver to Digital conversion with ESP32 reading and writing to the AD2S1210 Ev
 Wemos Lolin 32 - ESP32 board
 
 === AD2S1210 command menu ===
-
  p  - read position
  v  - read velocity
  f  - read + clear fault register

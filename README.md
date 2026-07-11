@@ -25,7 +25,9 @@ AVDD/DVDD (5 V) still need to come from the eval board's own supply (9 V adapter
 
 If you don't need to change resolution at runtime, you can skip GPIO26/27 and just hardwire RES0/RES1 directly to GND or VDRIVE for a fixed resolution (e.g., both high for 16-bit) — one less thing for firmware to manage.
 
+full register map straight from the AD2S1210 Rev. B datasheet
 
+<img width="731" height="541" alt="image" src="https://github.com/user-attachments/assets/15480965-dd70-4d77-8cd0-893c2a220fc0" />
 
 === AD2S1210 command menu ===
 

@@ -4,18 +4,31 @@ Resolver to Digital conversion with ESP32 reading and writing to the AD2S1210 Ev
 Wemos Lolin 32 - ESP32 board
 
 === AD2S1210 command menu ===
+
  p  - read position
+ 
  v  - read velocity
+ 
  f  - read + clear fault register
+ 
  c  - print control register
+ 
  e  - print excitation frequency
+ 
  E<hz> - set excitation frequency, e.g. E4747
+ 
  r<bits> - set resolution (10/12/14/16), e.g. r16
+ 
  t  - print all threshold registers
+ 
  x  - software reset
+ 
  X  - hardware reset (RESET pin)
+ 
  s  - toggle continuous streaming of position/velocity/faults
+
  ==============================
+ 
  
 Position: raw=0x0000  angle=0.000 deg
   Fault byte: 0x00

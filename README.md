@@ -5,6 +5,10 @@ Wemos Lolin 32 - ESP32 board
 
 <img width="1481" height="812" alt="image" src="https://github.com/user-attachments/assets/631ab4dd-bf29-420e-9477-62e59be31bc4" />
 
+AD2S1210 Eval board
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/2f609706-403c-4192-bb02-a449b3ce02f0" />
+
+
 wiring plan using the LOLIN32's hardware VSPI bus plus free GPIOs for the AD2S1210's control lines.
 
 <img width="755" height="364" alt="image" src="https://github.com/user-attachments/assets/d7fcc734-3ea6-4826-8c13-499af053185e" />

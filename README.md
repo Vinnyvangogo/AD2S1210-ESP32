@@ -12,6 +12,10 @@ AD2S1210 Eval board
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/2f609706-403c-4192-bb02-a449b3ce02f0" />
 
 
+
+<img width="735" height="973" alt="image" src="https://github.com/user-attachments/assets/cd1bbc1b-0268-451d-b0a5-0777343a2c52" />
+<img width="737" height="410" alt="image" src="https://github.com/user-attachments/assets/745f657f-38ee-41ad-92ec-9af3f2691970" />
+
 wiring plan using the LOLIN32's hardware VSPI bus plus free GPIOs for the AD2S1210's control lines.
 
 <img width="753" height="457" alt="image" src="https://github.com/user-attachments/assets/01f0de35-6122-4043-ba42-e69b582ecff8" />
